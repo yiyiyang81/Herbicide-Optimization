@@ -40,4 +40,4 @@ This README provides a conceptual overview of the project. For detailed methodol
 
 ---
 
-© [Year] Decision Analytics Project Team. All Rights Reserved.
+© [2023] Decision Analytics Project Team. All Rights Reserved.
