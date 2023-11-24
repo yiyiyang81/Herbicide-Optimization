@@ -1,0 +1,37 @@
+name,lower,upper,time,type
+OXYFLUORFEN,0.25,0.5,before,winter_fallow_beds
+PROMETRYN,1.6,2.0,before,winter_fallow_beds
+CARFENTRAZONE,0.016,0.024,after,winter_fallow_beds
+FLUMIOXAZIN,0,2.04,after,winter_fallow_beds
+GLYPHOSATE,N/A,N/A,after,winter_fallow_beds
+PARAQUAT,0.5,1.0,after,winter_fallow_beds
+METAM SODIUM,213.0,319.5,N/A,preplant
+PENDIMETHALIN,0.5,1.425,N/A,preplant
+PROMETRYN,1.2,2.4,N/A,preplant
+TRIFLURALIN,0.5,1.25,N/A,preplant
+CLETHODIM,0.06,0.12,N/A,postplant
+DIURON,0.4,0.4,N/A,postplant
+FLUAZIFOP-P-BUTYL (OT),0.125,0.375,N/A,postplant
+GLYPHOSATE,N/A,N/A,N/A,postplant
+MSMA (OT),1.0,1.875,N/A,postplant
+OXYFLUORFEN (PDS),0.25,0.5,N/A,postplant
+PROMETRYN,0.5,0.65,N/A,postplant
+PYRITHIOBAC SODIUM (OT),1.0,1.4,N/A,postplant
+S-METOLACHLOR,0.95,1.26,N/A,postplant
+SETHOXYDIM (OT),0.28,0.39,N/A,postplant
+DIURON,0.8,1.6,before,layby
+OXYFLUORFEN,0.5,0.5,before,layby
+S-METOLACHLOR,0.95,1.26,before,layby
+TRIFLURALIN,0.5,0.75,before,layby
+CARFENTRAZONE,0.016,0.024,after,layby
+DIURON,0.8,1.6,after,layby
+GLUFOSINATE,0.786,0.786,after,layby
+OXYFLUORFEN,0.5,0.5,after,layby
+PROMETRYN,1.2,1.6,after,layby
+PYRAFLUFEN ETHYL,N/A,N/A,after,layby
+S-METOLACHLOR,0.95,1.26,after,layby
+TRIFLURALIN,0.5,0.75,after,layby
+CARFENTRAZONE,0.016,0.024,N/A,pre_harvest
+GLYPHOSATE,1.0,1.89,N/A,pre_harvest
+GLYPHOSATE,1.0,1.0,N/A,pre_harvest
+TRIBUPHOS,0.75,1.87,N/A,pre_harvest
